@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-A project using factory js functions mainly.
+A Tic-Tac-Toe Game written in plain HTML, CSS and JavaScript
