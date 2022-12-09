@@ -1,0 +1,25 @@
+:root {
+
+    --background-color: #c5c3c6;
+    --font-color: #46494b;
+    --header-background-color: #4c5c68;
+    --header-font-color: #b0e4db;
+    --field-background-color: #ededee;
+    --field-background-color-hover: #d8e4e9;
+    --border-color: #555;
+    --blue-border-color: #2a3a46;
+    --button-background-color: #4c5c68;
+    --button-hover-background: #3b4b57;
+    --button-active-background: #2a3a46;
+
+    --border-radius: 8px;
+    --spacing-xs: 5px;
+    --spacing-sm: 10px;
+    --spacing-md: 15px;
+    --spacing-lg: 20px;
+    --spacing-xl: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
